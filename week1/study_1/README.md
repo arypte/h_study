@@ -19,3 +19,7 @@ week1
 
    5_2 layout 수정
    tailwind 정리
+
+6. componeents 분리
+   type interface 정리
+   제네릭 정리
