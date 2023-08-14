@@ -10,3 +10,12 @@ week1
    테일 윈드 수정만 남기기
 
 3. Main Page 초기화 ( 템플릿 제거 )
+
+4. 버튼 추가
+
+5. 디자인
+   tailwind 정리할예정
+   왜 day_1 버튼 영역이 이상하지
+
+   5_2 layout 수정
+   tailwind 정리
