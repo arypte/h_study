@@ -14,12 +14,16 @@ week1
 4. 버튼 추가
 
 5. 디자인
-   tailwind 정리할예정
-   왜 day_1 버튼 영역이 이상하지
+   grid grid-cols-4 gap-4
+   한줄에 4개씩 , 갭
 
    5_2 layout 수정
-   tailwind 정리
+   max-w-screen-sm mx-auto
+   최대 sm 사이즈, 마진 양쪽에 자동으로
 
 6. componeents 분리
    type interface 정리
    제네릭 정리
+
+7. data.json 파일 생성
+   map( v , i ) 사용할때 v 안쓰면 _ 표시 ( _ , i )

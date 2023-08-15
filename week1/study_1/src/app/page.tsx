@@ -7,7 +7,8 @@ const Home: NextPage = () => {
     <main className="py-24 px-12 min-h-screen flex flex-col justify-start items-center">
       <div className="font-semibold">Review English</div>
       <ul className="mt-12 w-full grid grid-cols-4 gap-4">
-        {data.map((v, i) => (
+        {data.map((_, i) => (
+          // v 안쓸때는 _ v 표시
           <DayCard key={i} index={i} />
         ))}
         {/* return ( ) 이 기본이지만 한줄이면 생략가능 */}
