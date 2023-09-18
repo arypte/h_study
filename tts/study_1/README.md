@@ -53,3 +53,9 @@ week1
     - span태그는 줄바꿈안할때 사용
 
 14. useParms 사용
+
+15. components 분리
+
+16. data.json 가져와서 사용하기
+    type interface 공부
+    ts type지정 공부
